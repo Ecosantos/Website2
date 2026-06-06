@@ -1,0 +1,68 @@
+/*-- scss:defaults --*/
+
+// Paleta de cores suavizada para o modo escuro
+$my-dark-bg: #1e222b;       // Um cinza-grafite escuro (estilo VS Code / GitHub Dark)
+$my-light-text: #d1d5db;   // Um cinza-claro suave (não agride os olhos)
+$my-white-heading: #f3f4f6;// Um branco levemente fosco para os títulos
+$my-green: #4caf50;
+
+// Atualizando as variáveis nativas do Cyborg para o Quarto respeitar
+$body-bg: $my-dark-bg !default;
+$body-color: $my-light-text !default;
+$primary: $my-white-heading !default;
+$headings-color: $my-white-heading !default;
+$link-color: $my-green !default;
+
+// Components
+$navbar-toggler-icon-bg: url("/img/logo.png");
+$font-family-sans-serif: "Nunito", sans-serif !default;
+
+/*-- scss:rules --*/
+
+// Forçando o fundo e os textos gerais a usarem a paleta suavizada
+body {
+  background-color: $my-dark-bg !important; 
+  color: $my-light-text !important;
+}
+
+// Alvo direto no Markdown e contêineres do Quarto
+p, span, li, ul, ol, section, div, main, .article-body, .post-body, .quarto-post-header {
+  color: $my-light-text !important;
+}
+
+// Títulos com o branco fosco elegante
+h1, h2, h3, h4, h5, h6, .title, .quarto-title {
+  color: $my-white-heading !important;
+}
+
+// Links no corpo do texto
+a:not(.nav-link) {
+  color: $my-green !important;
+}
+
+// NAVBAR DO MODO ESCURO (Ajustada para casar com o novo fundo)
+.navbar {
+  background-color: #11141a !important; // Um tom ainda mais escuro que o fundo para dar profundidade
+  
+  .navbar-brand, .navbar-toggler, li.nav-item a.nav-link {
+    color: #9ca3af !important; // Cinza médio para os links inativos
+  }
+  
+  .navbar-active {
+    color: $my-green !important; 
+  }
+}
+
+.centered i {
+  color: $my-white-heading !important;
+}
+
+// Suas regras gerais de layout
+.navbar-title { padding-right: 2em; }
+.about-link-text { font-size: 2rem; }
+.about-link { border: none !important; }
+.about-links { flex-direction: row !important; }
+.about-image { width: 15rem !important; height: 15rem !important; margin-top: 20px; }
+.centered { text-align: center; }
+.centered i { font-size: 3rem; }
+.quarto-title-banner { background: none; padding-bottom: 0px !important; }

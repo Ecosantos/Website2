@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "Gabriel Santos"
+  site-url: "https://benharrap.com"
+  favicon: "/img/logo.png"
+  search: false
+  open-graph:
+    image-alt: "A white and fawn greyhound with its tongue poking out, wearing a black cowboy hat and red neckerchief"
+    image: "/img/logo.png"
+  navbar:
+    right:
+      - post.qmd
+      - publications.qmd
+      - projects.qmd
+#      - cv.qmd
+#      - contact.qmd
+  
+format:
+  html:
+    grid:
+      body-width: 1000px
+      sidebar-width: 200px
+      margin-width: 300px
+    header-includes: ""
+    theme: custom.scss
+    linestretch: 2
+    monobackgroundcolor: '#ffddd6'

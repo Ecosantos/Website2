@@ -1,0 +1,22 @@
+# Add externeral posts here.
+
+- path: https://mosaicdatabase.web.ox.ac.uk/
+  title: "MOSAIC: an integrative trait to demographic analyses"
+  subtitle: "AAAAAAAA"
+  author: "Gabriel Santos"
+  date: "2025-10-30"
+  categories: [Demography, functional traits, database]
+  feature: TRUE
+  image: "post/0-Figures/Mosaic.png"
+
+- path: https://www.nature.com/articles/s41467-026-73720-x
+  title: "Nature communications is finally out!"
+  image: "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg"
+  subtitle: "In this paper we used a sexy metric to assess the population response to environmental variability. Spoiler: Life-history traits are very little important when phylogeny is accounted! Check the details!"
+  description: ""
+  date: "2026-06-06"
+  author: "Gabriel Santos"
+  categories: [Demography, Plant ecology, Climate change]
+
+
+

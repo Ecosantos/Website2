@@ -1,0 +1,55 @@
+/*-- scss:defaults --*/
+$primary: rgb(31,35,61);
+$body-color: rgb(31,35,61);
+$headings-color: rgb(31,35,61);
+
+
+$navbar-toggler-icon-bg: url("/img/logo.png");
+$font-family-sans-serif: "Nunito", sans-serif !default;
+
+/*-- scss:rules --*/
+.navbar {
+  background-color: #4caf50 !important; 
+}
+.navbar-brand, .navbar-toggler, .navbar li.nav-item a.nav-link {
+  color: rgb(31,35,61) !important;
+}
+
+// Suas regras gerais de layout
+.navbar-title { padding-right: 2em; }
+.about-link-text { font-size: 2rem; }
+.about-link { border: none !important; }
+.about-links { flex-direction: row !important; }
+.about-image { width: 15rem !important; height: 15rem !important; margin-top: 20px; }
+.centered { text-align: center; }
+.centered i { font-size: 3rem; }
+.quarto-title-banner { background: none; padding-bottom: 0px !important; }
+
+
+/* 1. Garante que o container permita que os itens quebrem linha */
+.about-links {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
+}
+
+/* 2. Força a linha, o título e o conteúdo a ocuparem 100% da largura da coluna */
+.about-links .about-link[href="#linha-interesses"],
+.about-links .about-link[href="#titulo-interesses"], 
+.about-links .about-link[href="#id_interesses"] {
+  display: block !important;
+  flex: 0 0 100% !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  text-align: center !important; 
+  padding: 0 !important;       
+  margin: 0 !important;        
+}
+
+/* 3. Ajuste extra: remove heranças de layout flex que o Quarto joga nos filhos */
+.about-links .about-link[href="#linha-interesses"] *,
+.about-links .about-link[href="#titulo-interesses"] *, 
+.about-links .about-link[href="#id_interesses"] * {
+  display: inline-block;
+  width: 100%;
+}

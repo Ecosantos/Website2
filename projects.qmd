@@ -1,0 +1,17 @@
+---
+title: "Projects"
+theme:
+  light: [cosmo, custom-light.scss]
+  dark: [cyborg, custom-dark.scss]
+listing:
+  contents: 
+    - "projects/*/index.qmd"
+    - external_projects.yml
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: TRUE
+page-layout: full
+title-block-banner: FALSE
+---

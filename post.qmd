@@ -1,0 +1,40 @@
+---
+title: "Posts"
+theme:
+  light: [cosmo, custom-light.scss]
+  dark: [cyborg, custom-dark.scss]
+listing:
+  contents: 
+    - "post/*/index.qmd"
+    - external_posts.yml
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: TRUE
+page-layout: full
+title-block-banner: FALSE
+---
+
+
+<style>
+/* 1. Ajusta o tamanho da coluna onde fica a imagem */
+.quarto-post .thumbnail,
+.listing-item-img-container,
+.body + .thumbnail {
+  max-width: 120px !important;
+  flex: 0 0 120px !important;
+  margin-right: 20px !important;
+}
+
+/* 2. Reduz a imagem e garante que ela NÃO seja cortada */
+.quarto-post .thumbnail img,
+.listing-item-img-container img,
+.listing-item img {
+  max-width: 120px !important;
+  height: auto !important;         /* Deixa a altura se ajustar proporcionalmente */
+  object-fit: contain !important;  /* Garante que a imagem inteira caiba na caixinha */
+  border-radius: 4px !important;
+}
+</style>
+

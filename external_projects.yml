@@ -1,0 +1,30 @@
+# Add externeral posts here.
+
+- path: https://mosaicdatabase.web.ox.ac.uk/
+  title: "MOSAIC: an integrative trait to demographic analyses"
+  subtitle: "A trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for >300 species of animals and plants."
+  author: "Gabriel Santos"
+  date: "2025-10-30"
+  categories: [Demography, Functional traits, Database]
+  feature: TRUE
+  image: "post/0-Figures/Mosaic.png"
+
+
+- path: https://ecosantos.github.io/ArvoresVix/
+  title: "Árvores de Vitória"
+  subtitle: "All trees identified and merged in a single interactive map [**PORTUGUESE ONLY**]"
+  author: "Gabriel Santos"
+  date: "2022-12-23"
+  categories: [Citizen science, Urban ecology, Teaching, Outreach]
+  feature: TRUE
+  image: "post/0-Figures/Arvorevix.jpg"
+
+- path: https://ecopopr.shinyapps.io/Ecologia_Interativa/
+  title: "Interactive ecology"
+  subtitle: "An interactive app to learn population ecology [**PORTUGUESE ONLY**]"
+  author: "Gabriel Santos"
+  date: "2016-04-27"
+  categories: [Population dynamics, Learning, Teaching, Teaching, Shiny]
+  feature: TRUE
+  image: "post/0-Figures/Interactive Ecology.jpg"
+

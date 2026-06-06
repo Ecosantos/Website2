@@ -1,0 +1,155 @@
+---
+title: "Gabriel Santos"
+subtitle: "Postdoctoral researcher <br/>Vale Institute of Technology, Brazil"
+image: "img/Foto 1.JPEG"
+page-layout: full # <--- ADICIONE ESTA LINHA
+theme:
+    light: [cosmo, custom-light.scss]
+    dark: [cyborg, custom-dark.scss]
+about: 
+  template: trestles
+  image-shape: round
+  image-alt: "A portrait photo of Ben. They've got their hair up in a bun, are wearing a white and navy striped jumper, and are smiling."
+  links:
+    - text: "{{< fa brands github >}}"
+      href: https://github.com/Ecosantos
+    - text: "{{< ai lattes size=lg >}}"
+      href: http://lattes.cnpq.br/1714610835853424
+    - text: "{{< fa brands orcid >}}"
+      href: https://orcid.org/0000-0001-7991-8807
+    - text: "{{< fa brands google-scholar >}}"
+      href: https://scholar.google.com/citations?user=DXeK9HwAAAAJ&hl=en
+    - text: "{{< ai researchgate size=lg >}}"
+      href: https://www.researchgate.net/profile/Gabriel-Santos-36?ev=hdr_xprf
+# ESTE SERÁ O ÚNICO LINK EXTRA (Apenas para as tags)
+    - text: "ID_INTERESSES"
+      href: "#id_interesses"
+---
+
+
+
+<!-- CÓDIGO R ABAIXO É ESSENCIAL PARA PRODUZIR AS TAGS --> 
+```{r}
+#| echo: false
+#| results: asis
+
+source("tags_pool.R")
+
+cat(paste0('
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var elementos = document.querySelectorAll(".about-links a");
+  elementos.forEach(function(el) {
+    if (el.textContent.includes("ID_INTERESSES")) {
+      
+      // Criamos o HTML completo da estrutura que você quer:
+      var estruturaHtml = `
+        <div style="width: 100%; margin-top: 1.5rem; text-align: center;">
+          <div style="width: 100%; border-top: 3px solid #94bd0f; margin-bottom: 1.5rem;"></div>
+          
+          <b style="color: #333; font-size: 2rem; display: block; margin-bottom: 1rem;">Interesses</b>
+          
+          <div style="pointer-events: auto;">', tags_html_final, '</div>
+        </div>
+      `;
+      
+      // Injeta a estrutura completa dentro do elemento do Quarto
+      el.innerHTML = estruturaHtml;
+      
+      // Remove as travas do Quarto apenas para este bloco
+      el.style.textDecoration = "none";
+      el.style.color = "inherit";
+      el.style.cursor = "default";
+      el.style.flex = "0 0 100%";
+      el.style.width = "100%";
+      el.style.display = "block";
+      
+      el.addEventListener("click", function(e) {
+        // Se o clique não foi em uma tag real, cancela o link do Quarto
+        if (e.target === el || el.contains(e.target) && e.target.tagName !== "A") {
+          e.preventDefault();
+        }
+      });
+    }
+  });
+});
+</script>
+'))
+```
+
+
+## About me
+
+I am a Brazilian population ecologist interested in many things, but particularly keen to explore the demographic drivers and fates of wildlife populations and how we can translate theory in better management actions for sustainable resources. I’m also an enthusiast of old school naturalists, citizen science and programming.
+
+Up to that, I’m a coffee seeker (a.k.a coffee addiction ☕), beer taster, and an MPB (Brazilian Popular Music) lover. Something in common? Be in touch!
+
+<!--
+## My interests
+
+- Demography & Population modelling
+- Applied statistics & Environmental governance
+- Invasive species
+- Citizen science
+
+## Skills
+
+::: {.columns .centered}
+::: {.column width="30%"}
+{{< fa brands r-project >}}
+
+**Programming**
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+{{< fa comments >}}
+
+**Consulting & Mentoring**
+
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+{{< fa chart-pie >}}
+
+**Data analyses**
+
+:::
+:::
+-->
+
+
+### {{< fa code >}} Skills
+
+::: {.d-flex .flex-wrap .gap-3 .mt-3}
+<span>{{< fa brands r-project >}} **Programming |**</span>
+<span>{{< fa comments >}} **Consulting & Mentoring |**</span>
+<span>{{< fa chart-pie >}} **Data analyses | **</span>
+<span>{{< fa music >}} **Trombone & flute & carnaval|**</span>
+:::
+
+
+
+<!-- Faltou espaço
+
+## Studied organisms so far
+# 🌴 🌳 🦟 🐦‍⬛ 🐾
+My research focuses on key ecological questions, without preference for specific taxa
+
+-->
+
+
+# Feature
+
+::: {.content-visible}
+---
+listing:
+  contents: 
+    - "post/*/index.qmd"
+    - external_posts.yml
+  sort: "date desc"
+  max-items: 1
+  type: default
+---
+:::

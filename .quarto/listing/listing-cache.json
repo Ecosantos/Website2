@@ -1,0 +1,17 @@
+{
+  "listingMap": {
+    "projects.qmd": [
+      "projects/*/index.qmd",
+      "external_posts.yml",
+      "external_projects.yml"
+    ],
+    "index.qmd": [
+      "post/*/index.qmd",
+      "external_posts.yml"
+    ],
+    "post.qmd": [
+      "post/*/index.qmd",
+      "external_posts.yml"
+    ]
+  }
+}
