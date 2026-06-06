@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gabriel Santos",
+    "section": "",
+    "text": "I am a Brazilian population ecologist interested in many things, but particularly keen to explore the demographic drivers and fates of wildlife populations and how we can translate theory in better management actions for sustainable resources. I’m also an enthusiast of old school naturalists, citizen science and programming.\nUp to that, I’m a coffee seeker (a.k.a coffee addiction ☕), beer taster, and an MPB (Brazilian Popular Music) lover. Something in common? Be in touch!\n\n\n\n\n Programming |  Consulting & Mentoring |  Data analyses |   Trombone & flute & carnaval|"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Gabriel Santos",
+    "section": "",
+    "text": "I am a Brazilian population ecologist interested in many things, but particularly keen to explore the demographic drivers and fates of wildlife populations and how we can translate theory in better management actions for sustainable resources. I’m also an enthusiast of old school naturalists, citizen science and programming.\nUp to that, I’m a coffee seeker (a.k.a coffee addiction ☕), beer taster, and an MPB (Brazilian Popular Music) lover. Something in common? Be in touch!\n\n\n\n\n Programming |  Consulting & Mentoring |  Data analyses |   Trombone & flute & carnaval|"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "In progress…\nMeantime, you can check my publications here:\n\nGoogle scholar\nResearchGate"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "MOSAIC: an integrative trait to demographic analyses\n\n\nA trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for &gt;300 species of animals and plants.\n\n\n\nDemography\n\nFunctional traits\n\nDatabase\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\n\n\n\n\n\n\n\nÁrvores de Vitória\n\n\nAll trees identified and merged in a single interactive map [PORTUGUESE ONLY]\n\n\n\nCitizen science\n\nUrban ecology\n\nTeaching\n\nOutreach\n\n\n\n\n\n\nDec 23, 2022\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive ecology\n\n\nAn interactive app to learn population ecology [PORTUGUESE ONLY]\n\n\n\nPopulation dynamics\n\nLearning\n\nTeaching\n\nTeaching\n\nShiny\n\n\n\n\n\n\nApr 27, 2016\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "post/two-more-rsthemes/index.html",
+    "href": "post/two-more-rsthemes/index.html",
+    "title": "Two new RStudio themes",
+    "section": "",
+    "text": "Sometimes you see a picture and think to yourself “oh I like the colour composition here”. Well when I think that, I also think “this would make a great RStudio theme”. So I’ve created two more RStudio themes!\nI’ve renamed my original noodle repository, where I kept the first theme I created, to rsthemes since it made sense to keep all of the themes I’ve made together. You can find it here: https://github.com/benharrap/rsthemes"
+  },
+  {
+    "objectID": "post/two-more-rsthemes/index.html#knitted",
+    "href": "post/two-more-rsthemes/index.html#knitted",
+    "title": "Two new RStudio themes",
+    "section": "Knitted",
+    "text": "Knitted\nThe knitted theme came from a jumper that I got for my kid. My partner and I were at a market for locally made goods and came across this stand where a nanna was selling little knitted jumpers that she made. It was the coolest jumper I’d ever seen and I wish she made them in adult sizes too. There’s no point trying to describe it, just take a look. I love the bright colours in the jumper and the pale colours looked like they’d work as a background, so I turned it into an RStudio theme. I’m pretty happy with the results!\n\n\n\n\n\nThe incredible jumper\n\n\n\n\n\n\nThe knitted theme applied to code\n\n\n\n\n\n\n\nThe knitted theme applied to RMarkdown"
+  },
+  {
+    "objectID": "post/two-more-rsthemes/index.html#corymbia",
+    "href": "post/two-more-rsthemes/index.html#corymbia",
+    "title": "Two new RStudio themes",
+    "section": "Corymbia",
+    "text": "Corymbia\nI was out for a walk in Canberra’s botanic gardens and walked past this beautiful plant, later identified by my dad as corymbia ficifolia. It’s an Australian native with gorgeous blooms. While I’d already walked past it I thought it was such a lovely colour scheme that I went back to snap a picture.\n\n\n\n\n\nCorymbia ficifolia\n\n\n\n\n\n\nThe corymbia theme applied to code\n\n\n\n\n\n\n\nThe corymbia theme applied to RMarkdown"
+  },
+  {
+    "objectID": "post/2025-10-31-ghost-gum-rstheme/index.html",
+    "href": "post/2025-10-31-ghost-gum-rstheme/index.html",
+    "title": "A new RStudio theme: Ghost Gum",
+    "section": "",
+    "text": "So I took a picture more than a year ago. I took it because I liked the colour palette of these logs and thought it would make a nice RStudio theme. Well, over a year later, I finally got the zoomies and did what I’d intended and made the theme! I’ve called it Ghost Gum, although I don’t think the logs are actually Ghost Gums. It’s a cool name and a cool tree though. Enjoy!\nYou can find the theme along with my others on GitHub (https://github.com/benharrap/rsthemes). If you want to have a go making your RStudio theme, check out the guide I made here. I’d suggest using the Ghost Gum theme as the starting template though, I tried to streamline some of the options so you don’t need to change the colour in so many locations.\n\n\n\n\n\nNice logs\n\n\n\n\n\n\nGhost Gum applied to code\n\n\n\n\n\n\n\nA Quarto document view"
+  },
+  {
+    "objectID": "post/2020-12-02-tshirt-competition/index.html",
+    "href": "post/2020-12-02-tshirt-competition/index.html",
+    "title": "Designing a t-shirt",
+    "section": "",
+    "text": "Back in September 2020 I saw the Statistical Society of Australia (SSA) advertise a t-shirt competition. The competition was only open to members, with the winner of the competition having their design become the official design for the SSA’s t-shirts. Initially I dismissed participating since I hated drawing. When I was in school, I didn’t particularly like any of the ‘creative’ subjects, especially not art. Drawing, painting, shading, getting proportions right, I wasn’t good at any of it and I was always disappointed with what I made. I noped out of any creative subjects as soon as I had the opportunity, happily sticking to subjects which relied letters and numbers, not pencils and paint brushes.\nSo why did I end up submitting a design? It happened in a very roundabout way. My partner, Kelsie, is a graphic designer (a very good one, check out her stuff) and I happened to mention the competition to her. The immediate reaction was “Spec work!? Ugh no thanks”. I hadn’t heard of spec work before, what was it? Short for speculative work, it describes when designers do work with the hopes that their design is selected and they end up getting paid. The problem is that it devalues their work and the industry, and puts everyone in a precarious position - they’re working, but there’s no guarantee they’ll be paid for any of it. The American Institute of Graphic Arts has a statement on spec work if you want to read more. Now that you mention it, it sounds exactly like kaggle. But I digress. I thought about spec work and while I didn’t agree that an amateur submission was the best way to represent the SSA, it was out of my control, so I went about my business."
+  },
+  {
+    "objectID": "post/2020-12-02-tshirt-competition/index.html#the-t-shirt-competition",
+    "href": "post/2020-12-02-tshirt-competition/index.html#the-t-shirt-competition",
+    "title": "Designing a t-shirt",
+    "section": "",
+    "text": "Back in September 2020 I saw the Statistical Society of Australia (SSA) advertise a t-shirt competition. The competition was only open to members, with the winner of the competition having their design become the official design for the SSA’s t-shirts. Initially I dismissed participating since I hated drawing. When I was in school, I didn’t particularly like any of the ‘creative’ subjects, especially not art. Drawing, painting, shading, getting proportions right, I wasn’t good at any of it and I was always disappointed with what I made. I noped out of any creative subjects as soon as I had the opportunity, happily sticking to subjects which relied letters and numbers, not pencils and paint brushes.\nSo why did I end up submitting a design? It happened in a very roundabout way. My partner, Kelsie, is a graphic designer (a very good one, check out her stuff) and I happened to mention the competition to her. The immediate reaction was “Spec work!? Ugh no thanks”. I hadn’t heard of spec work before, what was it? Short for speculative work, it describes when designers do work with the hopes that their design is selected and they end up getting paid. The problem is that it devalues their work and the industry, and puts everyone in a precarious position - they’re working, but there’s no guarantee they’ll be paid for any of it. The American Institute of Graphic Arts has a statement on spec work if you want to read more. Now that you mention it, it sounds exactly like kaggle. But I digress. I thought about spec work and while I didn’t agree that an amateur submission was the best way to represent the SSA, it was out of my control, so I went about my business."
+  },
+  {
+    "objectID": "post/2020-12-02-tshirt-competition/index.html#coming-up-with-a-design",
+    "href": "post/2020-12-02-tshirt-competition/index.html#coming-up-with-a-design",
+    "title": "Designing a t-shirt",
+    "section": "Coming up with a design",
+    "text": "Coming up with a design\nAll my good ideas seem to come to me out of the blue (thanks subconscious), so I was minding my own business when my brain went, “Hey, this would make a GREAT t-shirt design!”. ‘This’ being a design which pays homage to Australia’s great statisticians. The problem was I sucked at drawing, which was a real shame since it was a good idea. I couldn’t shake the idea though, I thought that if it was done right that maybe it would be a t-shirt worthy of official branding. So with the support of my partner (and her various graphic design tools) I began planning out my design. I started out with printing a map of Australia and drawing a bunch of circles (representing the approximate size of each drawing) to see how many statisticians I’d need to include.\n\nAt this stage, I thought I’d be hard pressed to find 37 statisticians to include. Sure, I’d heard of maybe 10 or so statisticians, some who the SSA have named lectures after, others who seem to publish papers with other big-name statisticians from overseas. How wrong I was! It turned out Australia has produced many statisticians who have contributed a lot to the field of statistics, in many different areas! I started out by looking at the list of statisticians on the SSA website - the named lectures and the Pitman Medal recipients. Sadly though, there were very few female statisticians in either of these lists. I wanted to have some semblance of gender balance in the list and I couldn’t believe there weren’t more female statisticians out there, so I kept searching and found this great list on Wikipedia.\nWith my list of 41 statisticians, rougly balanced in gender, the next job was to research in detail what they did. I really enjoyed this process, I learned so much about each of the candidates. At this point I’d like to give a big thanks to the Australian National University and the Australian Academy of Science for creating some excellent biographies of several statisticians on the list - they were so comprehensive and well written, it really helped me come up with some good ideas for the illustrations.\nThe list was complete and the candidates’ achievements noted, so next I selected which candidates I was going to include as they wouldn’t all fit in (despite Australia being so large). Admittedly, the selection process was a little biased as I was more likely to pick things that I actually felt capable of drawing (and also weren’t just equations). With a tentative list of ‘finalists’ I started sketching out on paper.\n\nDoing the drawings was challenging at first, mainly because I was frustrated that they didn’t look clean and I wasn’t used to drawing. But with the encouragement of my partner and the reaffirmation that they were just rough sketches, I pressed on (check out the sheep, it looks very different in the final design, it’s one of my favourites). As I carried on I found the process easier and more enjoyable - who knew drawing could be fun!? With most of the sketches complete I needed to translate them into the final images, this being done using an iPad Pro (thanks again Kelsie, I couldn’t’ve done this without you!). This was the real highlight of the drawing experience - being able to just undo a mistake, getting nice clean lines with the brush, it definitely made me feel more confident in my ability to draw."
+  },
+  {
+    "objectID": "post/2020-12-02-tshirt-competition/index.html#putting-it-all-together",
+    "href": "post/2020-12-02-tshirt-competition/index.html#putting-it-all-together",
+    "title": "Designing a t-shirt",
+    "section": "Putting it all together",
+    "text": "Putting it all together\nMy partner helped put all the images together on the map of Australia (which I made sure included Tasmania). With me peering over her shoulder and coming out with zingers like “Can you move that 2 pixels to the left?” and “Can you make it pop?”, we eventually came up with the final arrangement, which I’m stoked with. See for yourself!\n\nSome personal highlights of mine are Helen Turner’s sheep, which looks much happier than the initial sketch\n\nThe Pitman Medal (although he looks a little grumpier than on the original medal)\n\nAnd Annette Dobson’s “Introduction to Generalized Linear Models”, who hasn’t read this book!?\n\nI also ended up creating a back design for the t-shirt too since without a key it’d probably be quite hard to figure out who did what:\n\nAnyway, that’s all from me - I hope you like the design. It’s one of my proudest achievements to date. Go and read about the people on the list - they’re all amazing and really illustrate that as statisticians we do get to play in everyone’s back yards."
+  },
+  {
+    "objectID": "post/2023-10-20-joke/index.html",
+    "href": "post/2023-10-20-joke/index.html",
+    "title": "How did the vegetable gardener lower their taxable income?",
+    "section": "",
+    "text": "Celery sacrifice"
+  },
+  {
+    "objectID": "post/2021-11-24-joke/index.html",
+    "href": "post/2021-11-24-joke/index.html",
+    "title": "Why are cows bad at the tightrope?",
+    "section": "",
+    "text": "Because they lactose"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "R, SQL, Stata\nR is my preferred language and I’m proficient with SQL and Stata\n\n\n\n\nConsulting\nThere are a lot of good questions out there being asked, I like helping figure out how to answer them\n\n\n\n\nReproducible research\nFrom start to finish I like my make sure my reports are reproducible and as automated as possible\n\n\n\n\n\nData cleaning\nWho doesn’t like taking some dirty data and giving it a good scrub\n\n\n\n\nData visualisation\nSure, pictures speak a thousand words, but they might take a thousand lines of code too\n\n\n\n\nGoogling\nThe majority of my R knowledge is self-taught, so I’d say my Google-Fu is pretty good"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "R, SQL, Stata\nR is my preferred language and I’m proficient with SQL and Stata\n\n\n\n\nConsulting\nThere are a lot of good questions out there being asked, I like helping figure out how to answer them\n\n\n\n\nReproducible research\nFrom start to finish I like my make sure my reports are reproducible and as automated as possible\n\n\n\n\n\nData cleaning\nWho doesn’t like taking some dirty data and giving it a good scrub\n\n\n\n\nData visualisation\nSure, pictures speak a thousand words, but they might take a thousand lines of code too\n\n\n\n\nGoogling\nThe majority of my R knowledge is self-taught, so I’d say my Google-Fu is pretty good"
+  },
+  {
+    "objectID": "cv.html#qualifications",
+    "href": "cv.html#qualifications",
+    "title": "CV",
+    "section": "Qualifications",
+    "text": "Qualifications\n\n\n\nDoctor of Philosophy\nThe University of Melbourne, 2025\nThe Health of Aboriginal Children born in Western Australia in the Context of Out-of-Home Care\n\n\n\n\nMaster of Biostatistics\nThe University of Melbourne, 2018\nElectives in survival analysis, modelling longitudinal and correlated data, and survey design and analysis\n\n\n\n\nBachelor of Arts (Honours)\nUniversity of Western Australia, 2015\nDouble major in psychology, minor in anthropology"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "CV",
+    "section": "Employment",
+    "text": "Employment\n\nBiostatistician, Data Manager, Research Fellow\n\nYardhura Walani, Australian National University\n\nOctober 2024 – Present\n\n\nMy work focuses predominantly on the Mayi Kuwayu Study, where I developed a data cleaning pipeline using R that harmonises the raw paper and online survey data, incorporates results of our data audits, performs a series of data validation steps, derives new variables and survey weights, integrates external data, and outputs cleaned datasets. Using this pipeline, I also report on question performance and missingness to inform our questionnaire redesign process.\nI also provide my expertise to multiple other studies and research groups, as well as supervise graduate students and conduct survey methodology research of my own. In my first few months I also took the lead on finishing the study’s operational manual. In doing this, I converted the existing Word draft into a HTML document using Quarto, making the manual more user-friendly, improving the interface, and making the maintenance of documentation easier.\n\n\nQuantitative Social Scientist, Research Fellow\n\nCentre for Indigenous Policy Research, Australian National University\n\nOctober 2023 – October 2024\n\n\nIn my short time at CIPR I worked on two major reports. For the first, I examined social and emotional wellbeing for Aboriginal and Torres Strait Islander children and youth in the Longitudinal Study of Indigenous Children (LSIC). Starting with an Aboriginal and Torres Strait Islander theory of social and emotional wellbeing, I used exploratory factor analysis and structural equation modelling to map data items in LSIC to different domains of social and emotional wellbeing.\nThe second was a technical report commissioned by the Productivity Commission and Coalition of Peaks, where my co-authors and I proposed a more statistically rigorous method for measuring progress toward Closing the Gap targets. The report covered improvements in measuring progress, recommendations for increasing the quality, frequency, and relevance of data collected for these measures, and guidelines on how to communicate probabilistic statements from statistical models in easy to understand ways.\n\n\nPhD Candidate\n\nIndigenous Health and Epidemiology Group, University of Melbourne\n\nMarch 2020 – June 2024\n\n\nThroughout my PhD I translated findings from Aboriginal-led qualitative research and community reference group conversations into questions I could address using linked administrative datasets. This included how contacts by child protective services are clustered within sibling groups, the prevalence and cumulative incidence of mental and neurodevelopmental health conditions, and estimating the effect of placement in out-of-home care on rates of potentially preventable hospitalisations.\nI used a variety of statistical methods, including descriptive statistics, various regression models, survival analysis, and matching methods. All of my research was written in R and RMarkdown, where I created a reproducible pipeline from data cleaning through to multiple journal articles and my final thesis.\n\n\nBiostatistician\n\nDeakin University\n\nAugust 2022 – October 2023\n\nGrampians Health\n\nSeptember 2021 – October 2023\n\n\nIn these two biostatistician roles I acted as the sole statistical expert in clinical research and academic settings. Across these roles I provided study design and statistical oversight for a randomised trials, including sample size calculations, developing statistical analysis plans and randomisation schemes, advising on technical challenges arising, and analysing trial data. I also developed educational materials and delivered seminars for clinicians on the topic of good research practices."
+  },
+  {
+    "objectID": "cv.html#volunteering",
+    "href": "cv.html#volunteering",
+    "title": "CV",
+    "section": "Volunteering",
+    "text": "Volunteering\n\nWearer of Many Hats\n\nStatistical Society of Australia\n\nDecember 2018 – Present\n\n\nCurrently I’m the Vice President of the SSA. Since joining back in 2018, I have taken on many different voluntary roles, including:\n\nSecretary and then President of the Victorian and Tasmanian Branch\nCoordinator of the 2021 Early Career and Student Statisticians Conference\nCommittee member and Secretary of the Equity, Diversity, and Inclusion (EDI) committee\nCommittee member of the Reconciliation Action Plan committee\nMentor in the SSA’s Mentoring Program\n\nAcross these roles I coordinated strategic planning, managed teams, maintained relationships with external organisations, surveyed and reported on EDI in the Australian statistics profession, and wrote EDI recommendations for the Society."
+  },
+  {
+    "objectID": "cv.html#research-supervision",
+    "href": "cv.html#research-supervision",
+    "title": "CV",
+    "section": "Research supervision",
+    "text": "Research supervision\n\nCurrent\nDoctor of Philosophy — Sedgwick, M., Understanding the Health and Wellbeing of Aboriginal and Torres Strait Islander Peoples with Disability.\nMaster of Applied Epidemiology — Moreton, K., TBC.\n\n\nCompleted\nPsychology Honours — Madeley, B., Intentions and preferences of adults with diabetes toward seeking psychological support, 2022.\nPsychology Honours — Chhatiawala, A., Differences in coping self-efficacy between adults with type 1 and type 2 diabetes and the association with emotional-well-being, 2022.\nMaster of Medicine — Haussegger, Z., Sleep and Mental Health in Aboriginal and Torres Strait Islander Young People: A retrospective data analysis, 2021.\nMaster of Medicine — Moffroid, H., ‘Next Generation Youth Well-being Study:’ The importance of cultural connectedness for Aboriginal adolescent health and wellbeing., 2021."
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n2025 Bruce Lord Award for Excellence in Research Methodology — Australian Association of Social Workers\n2023 T-shirt design competition winner — Australian Statistical Conference\n2022 President’s Award for Leadership in Statistics — Statistical Society of Australia\n2021 T-shirt design competition winner — Statistical Society of Australia"
+  },
+  {
+    "objectID": "cv.html#memberships-and-accreditations",
+    "href": "cv.html#memberships-and-accreditations",
+    "title": "CV",
+    "section": "Memberships and Accreditations",
+    "text": "Memberships and Accreditations\nStatistical Society of Australia\nAccredited Graduate Statistician, Statistical Society of Australia\nInternational Population Data Linkage Network\nInternational Society of Non-Binary Scientists"
+  },
+  {
+    "objectID": "cv.html#professional-development",
+    "href": "cv.html#professional-development",
+    "title": "CV",
+    "section": "Professional Development",
+    "text": "Professional Development\n\nWorkshops\n\n2024\nSpatial Analysis in R — Australian Consortium for Social and Political Research Incorporated\nWorking Smarter with Targets presented by Miles McBain — Statistical Society of Australia\n\n\n2021\nA Crash Course in SQL — Statistical Society of Australia\nAMSI Winter School for Statistical Data Science — Australian Mathematical Sciences Institute\n\n\n2020\nData wrangling with R — Statistical Society of Australia\nData visualisation with R — Statistical Society of Australia\nSemiparametric regression in R — Statistical Society of Australia\n\n\n\nConferences\n\n2025\nGlobal Indigenous Data Sovereignty Conference — Attendee\n\n\n2023\nAustralian Statistical Conference and Australian Conference on Teaching Statistics — Attendee\nAboriginal and Torres Strait Islander Mathematics Alliance Conference — Attendee\n\n\n2022\nInternational Population Data Linkage Network Conference — Presenter\n\n\n2021\n9th SNAICC Annual Conference — Attendee\nThe Early Career and Student Statisticians Conference — Presenter\n\n\n2020\nInternational Population Data Linkage Network Conference — Attendee\n\n\n2018\nInternational Metropolis Conference — Presenter\nJoint International Society for Clinical Biostatistics and Australian Statistical Conference — Attendee\nUseR! Conference Brisbane — Attendee"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Want to say hi? Send me a message!\nYou can always contact me on social media too:\n Bluesky\n LinkedIn\n GitHub\n Buy me a coffee\n\n\n\n\n\n\nYour name \nEmail address \nMessage\n\n\nSend message"
+  },
+  {
+    "objectID": "post.html",
+    "href": "post.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Nature communications is finally out!\n\n\nIn this paper we used a sexy metric to assess the population response to environmental variability. Spoiler: Life-history traits are very little important when phylogeny is accounted! Check the details!\n\n\n\nDemography\n\nPlant ecology\n\nClimate change\n\n\n\n\n\n\n\n\nJun 6, 2026\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nA new RStudio theme: Ghost Gum\n\n\n\n\n\n\ncode\n\nR\n\ndesign\n\n\n\n\n\n\n\n\n\nOct 31, 2025\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nHow did the geologist carry their books to school?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nMOSAIC: an integrative trait to demographic analyses\n\n\nAAAAAAAA\n\n\n\nDemography\n\nfunctional traits\n\ndatabase\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nTwo new RStudio themes\n\n\n\n\n\n\ncode\n\nR\n\ndesign\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nHow did the vegetable gardener lower their taxable income?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nWhy are cows bad at the tightrope?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nNov 29, 2021\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning a t-shirt\n\n\n\n\n\n\ndesign\n\nstatistics\n\nSSA\n\n\n\n\n\n\n\n\n\nDec 2, 2020\n\n\nGabriel Santos\n\n\n\n\n\nNo matching items"
+  }
+]
