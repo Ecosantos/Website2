@@ -2,7 +2,7 @@
 
 - path: https://mosaicdatabase.web.ox.ac.uk/
   title: "MOSAIC: an integrative trait to demographic analyses"
-  subtitle: "AAAAAAAA"
+  subtitle: "MOSAIC is a trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for >300 species of animals and plants.MOSAIC makes available behavior, morphometry, habitat, functional traits, and other data available"
   author: "Gabriel Santos"
   date: "2025-10-30"
   categories: [Demography, functional traits, database]
