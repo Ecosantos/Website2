@@ -1,7 +1,0 @@
----
-title: "How did the geologist carry their books to school?"
-author: "Ben Harrap"
-date: 2025-10-30
-categories: [joke]
-path: https://example.com
----

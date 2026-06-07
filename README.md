@@ -1,12 +1,10 @@
 # Personal webpage
 
 My personal webpage was inspired by [Ben Harrap](https://benharrap.com/)
- 
-
 
 ### General architecture
 
-```markdown
+``` markdown
 .
 ├── apa.csl
 ├── custom-dark.scss   
@@ -35,5 +33,4 @@ My personal webpage was inspired by [Ben Harrap](https://benharrap.com/)
 ├── _quarto.yml
 ├── README.md
 └── _site
-
 ```
