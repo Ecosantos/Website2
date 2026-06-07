@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/
+Thumbs.db
+.DS_Store
+/.quarto/
+.httr-oauth
+
+**/*.quarto_ipynb

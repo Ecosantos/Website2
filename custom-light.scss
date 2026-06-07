@@ -26,30 +26,20 @@ $font-family-sans-serif: "Nunito", sans-serif !default;
 .quarto-title-banner { background: none; padding-bottom: 0px !important; }
 
 
-/* 1. Garante que o container permita que os itens quebrem linha */
+/* Permite que os links da barra lateral quebrem linha no mobile */
 .about-links {
-  display: flex !important;
   flex-wrap: wrap !important;
-  justify-content: center !important;
 }
 
-/* 2. Força a linha, o título e o conteúdo a ocuparem 100% da largura da coluna */
-.about-links .about-link[href="#linha-interesses"],
-.about-links .about-link[href="#titulo-interesses"], 
-.about-links .about-link[href="#id_interesses"] {
+/* Força a linha, o título e o conteúdo a ocuparem 100% da largura da coluna */
+.about-link[href="#linha-interesses"],
+.about-link[href="#titulo-interesses"], 
+.about-link[href="#id_interesses"] {
   display: block !important;
   flex: 0 0 100% !important;
   width: 100% !important;
   max-width: 100% !important;
-  text-align: center !important; 
-  padding: 0 !important;       
-  margin: 0 !important;        
-}
-
-/* 3. Ajuste extra: remove heranças de layout flex que o Quarto joga nos filhos */
-.about-links .about-link[href="#linha-interesses"] *,
-.about-links .about-link[href="#titulo-interesses"] *, 
-.about-links .about-link[href="#id_interesses"] * {
-  display: inline-block;
-  width: 100%;
+  text-align: center !important; /* Garante o alinhamento à esquerda */
+  padding: 0 !important;       /* Remove espaçamentos internos do link do Quarto */
+  margin: 0 !important;        /* Remove margens conflitantes */
 }

@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Gabriel Santos"
-  site-url: "https://benharrap.com"
+  site-url: "https://ecosantos.netlify.app/"
   favicon: "/img/logo.png"
   search: false
   open-graph:

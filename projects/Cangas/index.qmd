@@ -1,0 +1,81 @@
+---
+title: "Demography and Population Viability Analyses of microendemic plants from Amazonian Cangas"
+author: "Gabriel Santos"
+date: 2024-01-01
+categories: [Plant ecology, Demography, Population Viability Analyses, Extinction risk, Cangas, Amazon, Campos rupestres]
+listing:
+  id: galeria-especies
+  type: grid
+  grid-columns: 4
+  image-height: 250px # Se o SVG distorcer, você pode apagar esta linha
+  # COLOCANDO OS DADOS DIRETO AQUI:
+  contents:
+    - title: "Carajasia cangae"
+      image: https://www.researchgate.net/profile/Pedro-Viana-2/publication/278024646/figure/fig2/AS:294359724511241@1447192235564/Images-of-Carajasia-cangae-A-Carajasia-cangae-and-Paepalanthus-fasciculoides-Hensold.png
+      description: "Foto: Pedro L. Vianna"
+    - title: "Ipomoea cavalcantei"
+      image: https://revistamineracao.com.br/wp-content/uploads/2017/12/14122017_Meio-amabiente_Livro-Vale.jpg
+      description: "Foto: Pedro L. Vianna"
+    - title: "Daphnopsis filipedunculata"
+      image: https://minio.scielo.br/documentstore/2175-7860/pL4jZ8Pp35d8f3fvWwj9x6M/f1180ccc88b56b2be2591bb6c937572da00c827c.jpg
+      description: "Foto: Pedro L. Vianna"
+---
+
+
+
+
+Since 2024, I have been working as a Postdoctoral Researcher at the Vale Institute of Technology, focusing on 34 critical and priority plant species in the Cangas of the Carajás National Forest. Given that monitoring and managing these species are essential prerequisites for sustainable iron ore mining in the region, my role involves developing demographic monitoring protocols, tracking populations, and conducting Population Viability Analyses (PVA) for four selected critical species: *Ipomoea cavalcantei*, *Carajasia cangae*, *Parapiqueria cavalcantei* and *Daphnopsis filipedunculata*.
+
+
+
+
+<!-- A GALERIA VAI APARECER AQUI -->
+::: {#galeria-especies .column-page .mb-4}
+:::
+
+
+
+# Projects outputs
+- ![](https://www.researchgate.net/profile/Pedro-Viana-2/publication/278024646/figure/fig2/AS:294359724511241@1447192235564/Images-of-Carajasia-cangae-A-Carajasia-cangae-and-Paepalanthus-fasciculoides-Hensold.png)
+
+
+
+
+```{html}
+<div id="carrosselEspecies" class="carousel slide" data-bs-ride="carousel" style="max-width: 600px; margin: 0 auto;">
+  <div class="carousel-inner">
+    
+    <div class="carousel-item active">
+      <img src="https://www.researchgate.net/profile/Pedro-Viana-2/publication/278024646/figure/fig2/AS:294359724511241@1447192235564/Images-of-Carajasia-cangae-A-Carajasia-cangae-and-Paepalanthus-fasciculoides-Hensold.png" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Carajasia cangae">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Carajasia cangae</h5>
+        <p>Foto: Pedro L. Vianna</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="https://revistamineracao.com.br/wp-content/uploads/2017/12/14122017_Meio-amabiente_Livro-Vale.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Ipomoea cavalcantei">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Ipomoea cavalcantei</h5>
+        <p>Foto: Pedro L. Vianna</p>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <img src="https://minio.scielo.br/documentstore/2175-7860/pL4jZ8Pp35d8f3fvWwj9x6M/f1180ccc88b56b2be2591bb6c937572da00c827c.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Daphnopsis filipedunculata">
+      <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+        <h5>Daphnopsis filipedunculata</h5>
+        <p>Foto: Pedro L. Vianna</p>
+      </div>
+    </div>
+
+  </div>
+  
+  <button class="carousel-control-prev" type="button" data-bs-target="#carrosselEspecies" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carrosselEspecies" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  </button>
+</div>
+```
