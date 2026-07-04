@@ -25,77 +25,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "MOSAIC: an integrative trait to demographic analyses\n\n\nMOSAIC is a trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for &gt;300 species of animals and plants.\n\n\n\nDemography\n\nFunctional traits\n\nDatabase\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\n\n\n\n\n\n\n\nÁrvores de Vitória\n\n\nAll trees identified and merged in a single interactive map [PORTUGUESE ONLY]\n\n\n\nCitizen science\n\nUrban ecology\n\nTeaching\n\nOutreach\n\n\n\n\n\n\nDec 23, 2022\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive ecology\n\n\nAn interactive app to learn population ecology [PORTUGUESE ONLY]\n\n\n\nPopulation dynamics\n\nLearning\n\nTeaching\n\nTeaching\n\nShiny\n\n\n\n\n\n\nApr 27, 2016\n\n\nGabriel Santos\n\n\ntrue\n\n\n\n\n\nNo matching items"
+    "text": "In progress..\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMOSAIC: an integrative trait to demographic analyses\n\n\nA trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for &gt;300 species of animals and plants.\n\n\n\nDemography\n\nFunctional traits\n\nDatabase\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nDemography and Population Viability Analyses of microendemic plants from Amazonian Cangas\n\n\n\n\n\n\nPlant ecology\n\nDemography\n\nPopulation Viability Analyses\n\nExtinction risk\n\nCangas\n\nAmazon\n\nCampos rupestres\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nÁrvores de Vitória\n\n\nAll trees identified and merged in a single interactive map [PORTUGUESE ONLY]\n\n\n\nCitizen science\n\nUrban ecology\n\nTeaching\n\nOutreach\n\n\n\n\n\n\n\n\nDec 23, 2022\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nInteractive ecology\n\n\nAn interactive app to learn population ecology [PORTUGUESE ONLY]\n\n\n\nPopulation dynamics\n\nLearning\n\nTeaching\n\nTeaching\n\nShiny\n\n\n\n\n\n\n\n\nApr 27, 2016\n\n\nGabriel Santos\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "post/two-more-rsthemes/index.html",
-    "href": "post/two-more-rsthemes/index.html",
-    "title": "Two new RStudio themes",
+    "objectID": "projects/Cangas/index.html",
+    "href": "projects/Cangas/index.html",
+    "title": "Demography and Population Viability Analyses of microendemic plants from Amazonian Cangas",
     "section": "",
-    "text": "Sometimes you see a picture and think to yourself “oh I like the colour composition here”. Well when I think that, I also think “this would make a great RStudio theme”. So I’ve created two more RStudio themes!\nI’ve renamed my original noodle repository, where I kept the first theme I created, to rsthemes since it made sense to keep all of the themes I’ve made together. You can find it here: https://github.com/benharrap/rsthemes"
+    "text": "Since 2024, I have been working as a Postdoctoral Researcher at the Vale Institute of Technology, focusing on 34 critical and priority plant species in the Cangas of the Carajás National Forest. Given that monitoring and managing these species are essential prerequisites for sustainable iron ore mining in the region, my role involves developing demographic monitoring protocols, tracking populations, and conducting Population Viability Analyses (PVA) for four selected critical species: Ipomoea cavalcantei, Carajasia cangae, Parapiqueria cavalcantei and Daphnopsis filipedunculata.\n\n\n\n\n\n\n\n\n\n\n\nCarajasia cangae\n\n\nFoto: Pedro L. Vianna\n\n\n\n\n\n\n\n\n\n\n\n\nIpomoea cavalcantei\n\n\nFoto: Pedro L. Vianna\n\n\n\n\n\n\n\n\n\n\n\n\nDaphnopsis filipedunculata\n\n\nFoto: Pedro L. Vianna\n\n\n\n\n\nNo matching items\n\n\nProjects outputs"
   },
   {
-    "objectID": "post/two-more-rsthemes/index.html#knitted",
-    "href": "post/two-more-rsthemes/index.html#knitted",
-    "title": "Two new RStudio themes",
-    "section": "Knitted",
-    "text": "Knitted\nThe knitted theme came from a jumper that I got for my kid. My partner and I were at a market for locally made goods and came across this stand where a nanna was selling little knitted jumpers that she made. It was the coolest jumper I’d ever seen and I wish she made them in adult sizes too. There’s no point trying to describe it, just take a look. I love the bright colours in the jumper and the pale colours looked like they’d work as a background, so I turned it into an RStudio theme. I’m pretty happy with the results!\n\n\n\n\n\nThe incredible jumper\n\n\n\n\n\n\nThe knitted theme applied to code\n\n\n\n\n\n\n\nThe knitted theme applied to RMarkdown"
-  },
-  {
-    "objectID": "post/two-more-rsthemes/index.html#corymbia",
-    "href": "post/two-more-rsthemes/index.html#corymbia",
-    "title": "Two new RStudio themes",
-    "section": "Corymbia",
-    "text": "Corymbia\nI was out for a walk in Canberra’s botanic gardens and walked past this beautiful plant, later identified by my dad as corymbia ficifolia. It’s an Australian native with gorgeous blooms. While I’d already walked past it I thought it was such a lovely colour scheme that I went back to snap a picture.\n\n\n\n\n\nCorymbia ficifolia\n\n\n\n\n\n\nThe corymbia theme applied to code\n\n\n\n\n\n\n\nThe corymbia theme applied to RMarkdown"
-  },
-  {
-    "objectID": "post/2025-10-31-ghost-gum-rstheme/index.html",
-    "href": "post/2025-10-31-ghost-gum-rstheme/index.html",
-    "title": "A new RStudio theme: Ghost Gum",
+    "objectID": "post/13_03_2024 - Management plan in Bori/index.html",
+    "href": "post/13_03_2024 - Management plan in Bori/index.html",
+    "title": "Lack of biodiversity studies hinders the management of conservation units",
     "section": "",
-    "text": "So I took a picture more than a year ago. I took it because I liked the colour palette of these logs and thought it would make a nice RStudio theme. Well, over a year later, I finally got the zoomies and did what I’d intended and made the theme! I’ve called it Ghost Gum, although I don’t think the logs are actually Ghost Gums. It’s a cool name and a cool tree though. Enjoy!\nYou can find the theme along with my others on GitHub (https://github.com/benharrap/rsthemes). If you want to have a go making your RStudio theme, check out the guide I made here. I’d suggest using the Ghost Gum theme as the starting template though, I tried to streamline some of the options so you don’t need to change the colour in so many locations.\n\n\n\n\n\nNice logs\n\n\n\n\n\n\nGhost Gum applied to code\n\n\n\n\n\n\n\nA Quarto document view"
-  },
-  {
-    "objectID": "post/2020-12-02-tshirt-competition/index.html",
-    "href": "post/2020-12-02-tshirt-competition/index.html",
-    "title": "Designing a t-shirt",
-    "section": "",
-    "text": "Back in September 2020 I saw the Statistical Society of Australia (SSA) advertise a t-shirt competition. The competition was only open to members, with the winner of the competition having their design become the official design for the SSA’s t-shirts. Initially I dismissed participating since I hated drawing. When I was in school, I didn’t particularly like any of the ‘creative’ subjects, especially not art. Drawing, painting, shading, getting proportions right, I wasn’t good at any of it and I was always disappointed with what I made. I noped out of any creative subjects as soon as I had the opportunity, happily sticking to subjects which relied letters and numbers, not pencils and paint brushes.\nSo why did I end up submitting a design? It happened in a very roundabout way. My partner, Kelsie, is a graphic designer (a very good one, check out her stuff) and I happened to mention the competition to her. The immediate reaction was “Spec work!? Ugh no thanks”. I hadn’t heard of spec work before, what was it? Short for speculative work, it describes when designers do work with the hopes that their design is selected and they end up getting paid. The problem is that it devalues their work and the industry, and puts everyone in a precarious position - they’re working, but there’s no guarantee they’ll be paid for any of it. The American Institute of Graphic Arts has a statement on spec work if you want to read more. Now that you mention it, it sounds exactly like kaggle. But I digress. I thought about spec work and while I didn’t agree that an amateur submission was the best way to represent the SSA, it was out of my control, so I went about my business."
-  },
-  {
-    "objectID": "post/2020-12-02-tshirt-competition/index.html#the-t-shirt-competition",
-    "href": "post/2020-12-02-tshirt-competition/index.html#the-t-shirt-competition",
-    "title": "Designing a t-shirt",
-    "section": "",
-    "text": "Back in September 2020 I saw the Statistical Society of Australia (SSA) advertise a t-shirt competition. The competition was only open to members, with the winner of the competition having their design become the official design for the SSA’s t-shirts. Initially I dismissed participating since I hated drawing. When I was in school, I didn’t particularly like any of the ‘creative’ subjects, especially not art. Drawing, painting, shading, getting proportions right, I wasn’t good at any of it and I was always disappointed with what I made. I noped out of any creative subjects as soon as I had the opportunity, happily sticking to subjects which relied letters and numbers, not pencils and paint brushes.\nSo why did I end up submitting a design? It happened in a very roundabout way. My partner, Kelsie, is a graphic designer (a very good one, check out her stuff) and I happened to mention the competition to her. The immediate reaction was “Spec work!? Ugh no thanks”. I hadn’t heard of spec work before, what was it? Short for speculative work, it describes when designers do work with the hopes that their design is selected and they end up getting paid. The problem is that it devalues their work and the industry, and puts everyone in a precarious position - they’re working, but there’s no guarantee they’ll be paid for any of it. The American Institute of Graphic Arts has a statement on spec work if you want to read more. Now that you mention it, it sounds exactly like kaggle. But I digress. I thought about spec work and while I didn’t agree that an amateur submission was the best way to represent the SSA, it was out of my control, so I went about my business."
-  },
-  {
-    "objectID": "post/2020-12-02-tshirt-competition/index.html#coming-up-with-a-design",
-    "href": "post/2020-12-02-tshirt-competition/index.html#coming-up-with-a-design",
-    "title": "Designing a t-shirt",
-    "section": "Coming up with a design",
-    "text": "Coming up with a design\nAll my good ideas seem to come to me out of the blue (thanks subconscious), so I was minding my own business when my brain went, “Hey, this would make a GREAT t-shirt design!”. ‘This’ being a design which pays homage to Australia’s great statisticians. The problem was I sucked at drawing, which was a real shame since it was a good idea. I couldn’t shake the idea though, I thought that if it was done right that maybe it would be a t-shirt worthy of official branding. So with the support of my partner (and her various graphic design tools) I began planning out my design. I started out with printing a map of Australia and drawing a bunch of circles (representing the approximate size of each drawing) to see how many statisticians I’d need to include.\n\nAt this stage, I thought I’d be hard pressed to find 37 statisticians to include. Sure, I’d heard of maybe 10 or so statisticians, some who the SSA have named lectures after, others who seem to publish papers with other big-name statisticians from overseas. How wrong I was! It turned out Australia has produced many statisticians who have contributed a lot to the field of statistics, in many different areas! I started out by looking at the list of statisticians on the SSA website - the named lectures and the Pitman Medal recipients. Sadly though, there were very few female statisticians in either of these lists. I wanted to have some semblance of gender balance in the list and I couldn’t believe there weren’t more female statisticians out there, so I kept searching and found this great list on Wikipedia.\nWith my list of 41 statisticians, rougly balanced in gender, the next job was to research in detail what they did. I really enjoyed this process, I learned so much about each of the candidates. At this point I’d like to give a big thanks to the Australian National University and the Australian Academy of Science for creating some excellent biographies of several statisticians on the list - they were so comprehensive and well written, it really helped me come up with some good ideas for the illustrations.\nThe list was complete and the candidates’ achievements noted, so next I selected which candidates I was going to include as they wouldn’t all fit in (despite Australia being so large). Admittedly, the selection process was a little biased as I was more likely to pick things that I actually felt capable of drawing (and also weren’t just equations). With a tentative list of ‘finalists’ I started sketching out on paper.\n\nDoing the drawings was challenging at first, mainly because I was frustrated that they didn’t look clean and I wasn’t used to drawing. But with the encouragement of my partner and the reaffirmation that they were just rough sketches, I pressed on (check out the sheep, it looks very different in the final design, it’s one of my favourites). As I carried on I found the process easier and more enjoyable - who knew drawing could be fun!? With most of the sketches complete I needed to translate them into the final images, this being done using an iPad Pro (thanks again Kelsie, I couldn’t’ve done this without you!). This was the real highlight of the drawing experience - being able to just undo a mistake, getting nice clean lines with the brush, it definitely made me feel more confident in my ability to draw."
-  },
-  {
-    "objectID": "post/2020-12-02-tshirt-competition/index.html#putting-it-all-together",
-    "href": "post/2020-12-02-tshirt-competition/index.html#putting-it-all-together",
-    "title": "Designing a t-shirt",
-    "section": "Putting it all together",
-    "text": "Putting it all together\nMy partner helped put all the images together on the map of Australia (which I made sure included Tasmania). With me peering over her shoulder and coming out with zingers like “Can you move that 2 pixels to the left?” and “Can you make it pop?”, we eventually came up with the final arrangement, which I’m stoked with. See for yourself!\n\nSome personal highlights of mine are Helen Turner’s sheep, which looks much happier than the initial sketch\n\nThe Pitman Medal (although he looks a little grumpier than on the original medal)\n\nAnd Annette Dobson’s “Introduction to Generalized Linear Models”, who hasn’t read this book!?\n\nI also ended up creating a back design for the t-shirt too since without a key it’d probably be quite hard to figure out who did what:\n\nAnyway, that’s all from me - I hope you like the design. It’s one of my proudest achievements to date. Go and read about the people on the list - they’re all amazing and really illustrate that as statisticians we do get to play in everyone’s back yards."
-  },
-  {
-    "objectID": "post/2023-10-20-joke/index.html",
-    "href": "post/2023-10-20-joke/index.html",
-    "title": "How did the vegetable gardener lower their taxable income?",
-    "section": "",
-    "text": "Celery sacrifice"
-  },
-  {
-    "objectID": "post/2021-11-24-joke/index.html",
-    "href": "post/2021-11-24-joke/index.html",
-    "title": "Why are cows bad at the tightrope?",
-    "section": "",
-    "text": "Because they lactose"
+    "text": "The scarcity of comprehensive biodiversity data severely limits the effectiveness of environmental management within Brazil’s protected areas. Without consistent scientific monitoring, policymakers and managers struggle to implement targeted conservation strategies and mitigate human impacts on these ecosystems.\nCheck out the highlights of our Santos et al. Biodiversity & Conservation. 2024.\n\n \n\n\nReference\nSantos, G.S., Moreira, D.O., Loss, A.C. et al. Management plans bias the number of threatened species in protected areas: a study case with flora species in the Atlantic Forest. Biodivers Conserv 33, 843–858 (2024). https://doi.org/10.1007/s10531-024-02796-y"
   },
   {
     "objectID": "cv.html",
@@ -172,13 +116,6 @@
     "href": "post.html",
     "title": "Posts",
     "section": "",
-    "text": "Nature communications is finally out!\n\n\nIn this paper we used a sexy metric to assess the population response to environmental variability. Spoiler: Life-history traits are very little important when phylogeny is accounted! Check the details!\n\n\n\nDemography\n\nPlant ecology\n\nClimate change\n\n\n\n\n\n\n\n\nJun 6, 2026\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nA new RStudio theme: Ghost Gum\n\n\n\n\n\n\ncode\n\nR\n\ndesign\n\n\n\n\n\n\n\n\n\nOct 31, 2025\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nHow did the geologist carry their books to school?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nMOSAIC: an integrative trait to demographic analyses\n\n\nAAAAAAAA\n\n\n\nDemography\n\nfunctional traits\n\ndatabase\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nTwo new RStudio themes\n\n\n\n\n\n\ncode\n\nR\n\ndesign\n\n\n\n\n\n\n\n\n\nApr 29, 2024\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nHow did the vegetable gardener lower their taxable income?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nWhy are cows bad at the tightrope?\n\n\n\n\n\n\njoke\n\n\n\n\n\n\n\n\n\nNov 29, 2021\n\n\nBen Harrap\n\n\n\n\n\n\n\n\n\n\n\n\nDesigning a t-shirt\n\n\n\n\n\n\ndesign\n\nstatistics\n\nSSA\n\n\n\n\n\n\n\n\n\nDec 2, 2020\n\n\nGabriel Santos\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/ArvoreVix/index.html",
-    "href": "projects/ArvoreVix/index.html",
-    "title": "Árvores de Vitória",
-    "section": "",
-    "text": "Note\n\n\n\n⚠️ [PT] O gps pode não funcionar em alguns sistemas operacionais. Dê preferência ao Google Chrome, Mozilla OU teste pela página oficial Clicando aqui.\n⚠️ [EN] GPS device may not work in some operational systems. Please give preference to Google Chrome, Mozilla or try the official App’s webpage by clicking here."
+    "text": "Nature communications is finally out!\n\n\nIn this paper we used a sexy metric to assess the population response to environmental variability. Spoiler: Life-history traits are very little important when phylogeny is accounted! Check the details!\n\n\n\nDemography\n\nPlant ecology\n\nClimate change\n\n\n\n\n\n\n\n\nJun 6, 2026\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nMOSAIC: an integrative trait to demographic analyses\n\n\nMOSAIC is a trait database designed by and for comparative demographers.MOSAIC contains existing databases + new data records for &gt;300 species of animals and plants.MOSAIC makes available behavior, morphometry, habitat, functional traits, and other data available\n\n\n\nDemography\n\nfunctional traits\n\ndatabase\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nGabriel Santos\n\n\n\n\n\n\n\n\n\n\n\n\nLack of biodiversity studies hinders the management of conservation units\n\n\n\n\n\n\nProtected areas\n\nManagement plan\n\nAtlantic rainforest\n\nMata Atlântica\n\n\n\n\n\n\n\n\n\nMar 13, 2024\n\n\nGabriel Santos\n\n\n\n\n\nNo matching items"
   }
 ]

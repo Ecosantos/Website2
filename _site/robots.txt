@@ -1,1 +1,1 @@
-Sitemap: https://benharrap.com/sitemap.xml
+Sitemap: https://ecosantos.netlify.app/sitemap.xml
